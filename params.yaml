@@ -1,0 +1,14 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_pig_virtualbox__42847: http://pig-VirtualBox:42847/
+rosversion: '1.15.15
+
+  '
+run_id: 0409215c-aea5-11ed-bd1a-4ba8b9941749
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 150
