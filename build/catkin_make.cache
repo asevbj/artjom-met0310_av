@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/pig/artjom-met0310_av/devel -DCMAKE_INSTALL_PREFIX=/home/pig/artjom-met0310_av/install -G Unix Makefiles
