@@ -1,0 +1,8 @@
+prefix=/home/pig/artjom-met0310_av/install
+
+Name: artjom_r2d2
+Description: Description of artjom_r2d2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
