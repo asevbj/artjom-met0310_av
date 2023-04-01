@@ -6,4 +6,5 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
 subdirs("beginner_tutorials")
+subdirs("r2d2_navigator")
 subdirs("artjom_r2d2")

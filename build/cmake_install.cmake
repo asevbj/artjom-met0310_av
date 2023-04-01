@@ -132,6 +132,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/pig/artjom-met0310_av/build/gtest/cmake_install.cmake")
   include("/home/pig/artjom-met0310_av/build/beginner_tutorials/cmake_install.cmake")
+  include("/home/pig/artjom-met0310_av/build/r2d2_navigator/cmake_install.cmake")
   include("/home/pig/artjom-met0310_av/build/artjom_r2d2/cmake_install.cmake")
 
 endif()

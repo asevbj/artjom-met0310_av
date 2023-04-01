@@ -1,2 +1,2 @@
-artjom_r2d2:beginner_tutorials
+artjom_r2d2:beginner_tutorials:r2d2_navigator
 -DCATKIN_DEVEL_PREFIX=/home/pig/artjom-met0310_av/devel -DCMAKE_INSTALL_PREFIX=/home/pig/artjom-met0310_av/install -G Unix Makefiles
